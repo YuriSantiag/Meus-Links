@@ -1,3 +1,5 @@
+![linksgr](https://github.com/YuriSantiag/Meus-Links/assets/107895723/d1340bde-dac8-4aff-aaa4-921d7d5a0c56)
+
 # Links: Projeto com os meus links
 
 ## 📖Descrição
@@ -43,5 +45,7 @@ yarn dev
 ```
 
 ## 🎨 Design Mobile
-
+![LinksMobile](https://github.com/YuriSantiag/Meus-Links/assets/107895723/c6de3300-9111-42ce-96cd-674210458309)
 ## 🎨 Design Desktop
+![LinkDesktop](https://github.com/YuriSantiag/Meus-Links/assets/107895723/e5f88b98-5724-4a94-a1a4-be01a4620d07)
+
