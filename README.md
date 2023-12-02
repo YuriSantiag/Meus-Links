@@ -1,4 +1,3 @@
-![linksgr](https://github.com/YuriSantiag/Meus-Links/assets/107895723/d1340bde-dac8-4aff-aaa4-921d7d5a0c56)
 
 # Links: Projeto com os meus links
 
