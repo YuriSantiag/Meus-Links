@@ -1,6 +1,6 @@
 ![linksback](https://github.com/YuriSantiag/Meus-Links/assets/107895723/969b4a78-27f3-43e7-b65f-c67b8de54824)
 
-# Links: Projeto com os meus links
+# Links: Projeto com os meus links principais
 
 ## 📖Descrição
 
