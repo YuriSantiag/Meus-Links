@@ -2,7 +2,7 @@
 
 # Links: Projeto com os meus links principais
 
-## Acesse: https://melodious-griffin-f532ab.netlify.app/
+## Acesse: https://linksant.netlify.app/
 
 
 ## 📖Descrição
