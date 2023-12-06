@@ -9,6 +9,10 @@
 
 Este projeto tem como objetivo facilitar o contato com as minhas redes
 
+## 👾Status
+
+Project in progress
+
 ## 💻 Tecnologias utilizadas
 
 <div align="center">
