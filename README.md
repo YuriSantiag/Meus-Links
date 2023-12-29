@@ -2,7 +2,7 @@
 
 # Links: Projeto com os meus links principais
 
-## Acesse: https://linksant.netlify.app/
+## Acesse: https://meuslinksdev.netlify.app
 
 
 ## 📖Descrição
